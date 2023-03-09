@@ -1,2 +1,9 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{2}{}%
+\contentsline {section}{\numberline {1.1}Significato del termine NFC}{2}{}%
+\contentsline {chapter}{\numberline {2}Come funziona NFC}{3}{}%
+\contentsline {chapter}{\numberline {3}Utilizzi di NFC}{5}{}%
+\contentsline {chapter}{\numberline {4}Novità sugli utilizzi futuri}{7}{}%
+\contentsline {section}{\numberline {4.1}Chip sotto pelle}{8}{}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{10}{}%

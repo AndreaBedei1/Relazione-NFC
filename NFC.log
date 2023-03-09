@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.26)  7 MAR 2023 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.26)  9 MAR 2023 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -65,8 +65,7 @@ tex.def
 File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box51
-)
-No file NFC.aux.
+) (NFC.aux)
 \openout1 = `NFC.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -91,32 +90,109 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
-[1
+ [1
 
-{C:/Users/andre/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file NFC.toc.
+{C:/Users/andre/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (NFC.toc)
 \tf@toc=\write3
 \openout3 = `NFC.toc'.
 
-[1
+ [1
+
+]
+Capitolo 1.
+[2
+
+]
+Capitolo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[3
+
+] [4]
+Capitolo 3.
+[5
+
+] [6]
+Capitolo 4.
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+[8] [9]
+Capitolo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+[10
 
 ] (NFC.aux) ) 
 Here is how much of TeX's memory you used:
- 2076 strings out of 477843
- 33382 string characters out of 2823599
- 350309 words of memory out of 3000000
- 21042 multiletter control sequences out of 15000+600000
- 476142 words of font info for 43 fonts, out of 8000000 for 9000
+ 2091 strings out of 477843
+ 33617 string characters out of 2823599
+ 361309 words of memory out of 3000000
+ 21048 multiletter control sequences out of 15000+600000
+ 480018 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,52p,146b,184s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 40i,6n,52p,1951b,194s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecrm1095.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecbx2488.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecrm2488.pk>
-Output written on NFC.pdf (2 pages, 16272 bytes).
+dpi600\ecbx1095.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecbx1440.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\andre\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\andre\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\andre\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\andre\AppData\Local
+\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk>
+Output written on NFC.pdf (11 pages, 88441 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
